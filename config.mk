@@ -13,3 +13,10 @@
 # limitations under the License.
 LOCAL_PATH := $(call my-dir)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
+
+# Fonts
+PRODUCT_PACKAGES += \
+    fonts_customization.xml \
+    FontLatoOverlay \
+    FontNotoSerifSourceOverlay \
+    FontRubikOverlay
