@@ -17,6 +17,12 @@ include $(call all-subdir-makefiles,$(LOCAL_PATH))
 # Fonts
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
+    FontGoogleSansOverlay \
     FontLatoOverlay \
     FontNotoSerifSourceOverlay \
+    FontOnePlusSansOverlay \
+    FontOnePlusSlateOverlay \
     FontRubikOverlay
+
+PRODUCT_COPY_FILES += \
+    $(call find-copy-subdir-files,*,vendor/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
