@@ -24,5 +24,19 @@ PRODUCT_PACKAGES += \
     FontOnePlusSlateOverlay \
     FontRubikOverlay
 
+# Navbar Styles
+PRODUCT_PACKAGES += \
+	NavbarClassicOverlay \
+	NavbarLollipopOverlay \
+	NavbarOneUiOverlay
+
+# Signal Icons
+PRODUCT_PACKAGES += \
+	SignalIconHoloOverlay
+
+# Wi-Fi Icons
+PRODUCT_PACKAGES += \
+	WiFiIconHoloOverlay
+
 PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,vendor/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
