@@ -24,6 +24,16 @@ PRODUCT_PACKAGES += \
     FontOnePlusSlateOverlay \
     FontRubikOverlay
 
+# Icon Shapes
+PRODUCT_PACKAGES += \
+    IconShapePebbleOverlay \
+    IconShapeRoundedRectOverlay \
+    IconShapeSquareOverlay \
+    IconShapeSquircleOverlay \
+    IconShapeTaperedRectOverlay \
+    IconShapeTeardropOverlay \
+    IconShapeVesselOverlay
+
 # Navbar Styles
 PRODUCT_PACKAGES += \
 	NavbarClassicOverlay \
