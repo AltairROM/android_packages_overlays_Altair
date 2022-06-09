@@ -42,11 +42,13 @@ PRODUCT_PACKAGES += \
 
 # Signal Icons
 PRODUCT_PACKAGES += \
-	SignalIconHoloOverlay
+	SignalIconHoloOverlay \
+	SignalIconMaterialFilledOverlay
 
 # Wi-Fi Icons
 PRODUCT_PACKAGES += \
-	WiFiIconHoloOverlay
+	WiFiIconHoloOverlay \
+	WiFiIconMaterialFilledOverlay
 
 PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,vendor/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
