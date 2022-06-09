@@ -24,6 +24,9 @@ PRODUCT_PACKAGES += \
     FontOnePlusSlateOverlay \
     FontRubikOverlay
 
+PRODUCT_COPY_FILES += \
+    $(call find-copy-subdir-files,*,packages/overlays/Altair/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
+
 # Icon Shapes
 PRODUCT_PACKAGES += \
     IconShapePebbleOverlay \
@@ -49,6 +52,3 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
 	WiFiIconHoloOverlay \
 	WiFiIconMaterialFilledOverlay
-
-PRODUCT_COPY_FILES += \
-    $(call find-copy-subdir-files,*,vendor/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
