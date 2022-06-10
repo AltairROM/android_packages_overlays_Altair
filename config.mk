@@ -46,3 +46,9 @@ PRODUCT_PACKAGES += \
     NavbarClassicOverlay \
     NavbarHoloOverlay \
     NavbarOneUiOverlay
+
+# Signal Icons
+PRODUCT_PACKAGES += \
+    SignalIconClassicOverlay \
+    SignalIconHoloOverlay \
+    SignalIconMaterialFilledOverlay
