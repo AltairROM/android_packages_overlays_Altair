@@ -28,4 +28,5 @@ PRODUCT_PACKAGES += \
     FontLatoOverlay \
     FontNotoSerifSourceOverlay \
     FontOnePlusSansOverlay \
+    FontOnePlusSlateOverlay \
     FontRubikOverlay
