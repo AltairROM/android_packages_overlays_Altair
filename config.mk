@@ -27,4 +27,5 @@ PRODUCT_PACKAGES += \
     FontGoogleSansOverlay \
     FontLatoOverlay \
     FontNotoSerifSourceOverlay \
+    FontOnePlusSansOverlay \
     FontRubikOverlay
