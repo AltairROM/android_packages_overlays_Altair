@@ -45,6 +45,7 @@ PRODUCT_PACKAGES += \
 
 # Signal Icons
 PRODUCT_PACKAGES += \
+    SignalIconClassicOverlay \
 	SignalIconHoloOverlay \
 	SignalIconMaterialFilledOverlay
 
