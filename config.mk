@@ -40,7 +40,7 @@ PRODUCT_PACKAGES += \
 # Navbar Styles
 PRODUCT_PACKAGES += \
 	NavbarClassicOverlay \
-	NavbarLollipopOverlay \
+	NavbarHoloOverlay \
 	NavbarOneUiOverlay
 
 # Signal Icons

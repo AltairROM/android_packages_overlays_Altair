@@ -15,8 +15,8 @@
 //
 
 runtime_resource_overlay {
-    name: "NavbarLollipopOverlay",
+    name: "NavbarHoloOverlay",
     product_specific: true,
     sdk_version: "current",
-    theme: "NavbarLollipop",
+    theme: "NavbarHolo",
 }

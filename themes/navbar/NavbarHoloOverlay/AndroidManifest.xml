@@ -15,12 +15,12 @@
     limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.android.theme.navbar.lollipop"
+          package="com.android.theme.navbar.holo"
           android:versionCode="1"
           android:versionName="1.0">
     <overlay android:targetPackage="com.android.systemui"
              android:category="android.theme.customization.navbar"
              android:priority="1"/>
-    <application android:label="Lollipop"
+    <application android:label="Holo"
                  android:hasCode="false"/>
 </manifest>
