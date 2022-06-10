@@ -52,3 +52,9 @@ PRODUCT_PACKAGES += \
     SignalIconClassicOverlay \
     SignalIconHoloOverlay \
     SignalIconMaterialFilledOverlay
+
+# Wi-Fi Icons
+PRODUCT_PACKAGES += \
+    WiFiIconClassicOverlay \
+    WiFiIconHoloOverlay \
+    WiFiIconMaterialFilledOverlay
