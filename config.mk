@@ -40,3 +40,9 @@ PRODUCT_PACKAGES += \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
     IconShapeVesselOverlay
+
+# Navbar Styles
+PRODUCT_PACKAGES += \
+    NavbarClassicOverlay \
+    NavbarHoloOverlay \
+    NavbarOneUiOverlay
