@@ -24,6 +24,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
+    FontGoogleSansOverlay \
     FontLatoOverlay \
     FontNotoSerifSourceOverlay \
     FontRubikOverlay
