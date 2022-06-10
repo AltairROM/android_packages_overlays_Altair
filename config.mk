@@ -39,18 +39,18 @@ PRODUCT_PACKAGES += \
 
 # Navbar Styles
 PRODUCT_PACKAGES += \
-	NavbarClassicOverlay \
-	NavbarHoloOverlay \
-	NavbarOneUiOverlay
+    NavbarClassicOverlay \
+    NavbarHoloOverlay \
+    NavbarOneUiOverlay
 
 # Signal Icons
 PRODUCT_PACKAGES += \
     SignalIconClassicOverlay \
-	SignalIconHoloOverlay \
-	SignalIconMaterialFilledOverlay
+    SignalIconHoloOverlay \
+    SignalIconMaterialFilledOverlay
 
 # Wi-Fi Icons
 PRODUCT_PACKAGES += \
     WiFiIconClassicOverlay \
-	WiFiIconHoloOverlay \
-	WiFiIconMaterialFilledOverlay
+    WiFiIconHoloOverlay \
+    WiFiIconMaterialFilledOverlay
