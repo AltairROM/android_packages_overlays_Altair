@@ -15,6 +15,9 @@ LOCAL_PATH := $(call my-dir)
 include $(call all-subdir-makefiles,$(LOCAL_PATH))
 
 # Fonts
+$(call inherit-product-if-exists, external/google-fonts/lato/fonts.mk)
+$(call inherit-product-if-exists, external/google-fonts/rubik/fonts.mk)
+
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
     FontGoogleSansOverlay \
