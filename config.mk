@@ -31,6 +31,27 @@ PRODUCT_PACKAGES += \
     FontOnePlusSlateOverlay \
     FontRubikOverlay
 
+# Accent Colors
+PRODUCT_PACKAGES += \
+    AccentGoogleBlueOverlay \
+    AccentMaterialAmberOverlay \
+    AccentMaterialBlueOverlay \
+    AccentMaterialBrownOverlay \
+    AccentMaterialCyanOverlay \
+    AccentMaterialDeepOrangeOverlay \
+    AccentMaterialDeepPurpleOverlay \
+    AccentMaterialGreenOverlay \
+    AccentMaterialIndigoOverlay \
+    AccentMaterialLightBlueOverlay \
+    AccentMaterialLightGreenOverlay \
+    AccentMaterialLimeOverlay \
+    AccentMaterialOrangeOverlay \
+    AccentMaterialPinkOverlay \
+    AccentMaterialPurpleOverlay \
+    AccentMaterialRedOverlay \
+    AccentMaterialTealOverlay \
+    AccentMaterialYellowOverlay
+
 # Icon Shapes
 PRODUCT_PACKAGES += \
     IconShapePebbleOverlay \
