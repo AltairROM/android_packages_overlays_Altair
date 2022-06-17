@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2022 The Altair ROM Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources>
+    <color name="system_accent1_0">#ffffff</color>
+    <color name="system_accent1_10">#f2f7fe</color>
+    <color name="system_accent1_50">#e4eefc</color>
+    <color name="system_accent1_100">#bad5f8</color>
+    <color name="system_accent1_200">#8db9f4</color>
+    <color name="system_accent1_300">#5f9def</color>
+    <color name="system_accent1_400">#3c88eb</color>
+    <color name="system_accent1_500">#1a73e8</color>
+    <color name="system_accent1_600">#176be5</color>
+    <color name="system_accent1_700">#1360e2</color>
+    <color name="system_accent1_800">#0f56de</color>
+    <color name="system_accent1_900">#0843d8</color>
+    <color name="system_accent1_1000">#000000</color>
+
+    <color name="system_accent2_0">#ffffff</color>
+    <color name="system_accent2_10">#f2f7fe</color>
+    <color name="system_accent2_50">#e4eefc</color>
+    <color name="system_accent2_100">#bad5f8</color>
+    <color name="system_accent2_200">#8db9f4</color>
+    <color name="system_accent2_300">#5f9def</color>
+    <color name="system_accent2_400">#3c88eb</color>
+    <color name="system_accent2_500">#1a73e8</color>
+    <color name="system_accent2_600">#176be5</color>
+    <color name="system_accent2_700">#1360e2</color>
+    <color name="system_accent2_800">#0f56de</color>
+    <color name="system_accent2_900">#0843d8</color>
+    <color name="system_accent2_1000">#000000</color>
+
+    <color name="system_accent3_0">#ffffff</color>
+    <color name="system_accent3_10">#f2f7fe</color>
+    <color name="system_accent3_50">#e4eefc</color>
+    <color name="system_accent3_100">#bad5f8</color>
+    <color name="system_accent3_200">#8db9f4</color>
+    <color name="system_accent3_300">#5f9def</color>
+    <color name="system_accent3_400">#3c88eb</color>
+    <color name="system_accent3_500">#1a73e8</color>
+    <color name="system_accent3_600">#176be5</color>
+    <color name="system_accent3_700">#1360e2</color>
+    <color name="system_accent3_800">#0f56de</color>
+    <color name="system_accent3_900">#0843d8</color>
+    <color name="system_accent3_1000">#000000</color>
+</resources>
