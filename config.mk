@@ -52,6 +52,10 @@ PRODUCT_PACKAGES += \
     AccentMaterialTealOverlay \
     AccentMaterialYellowOverlay
 
+# Dark Mode Backgrounds
+PRODUCT_PACKAGES += \
+    BackgroundBlackOverlay
+
 # Icon Shapes
 PRODUCT_PACKAGES += \
     IconShapePebbleOverlay \
