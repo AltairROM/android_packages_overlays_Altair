@@ -21,6 +21,6 @@
     <overlay android:targetPackage="android"
              android:category="android.theme.customization.accent_color"
              android:priority="1"/>
-    <application android:label="PantoneGreen"
+    <application android:label="Pantone Green"
                  android:hasCode="false"/>
 </manifest>
