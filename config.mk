@@ -50,7 +50,14 @@ PRODUCT_PACKAGES += \
     AccentMaterialPurpleOverlay \
     AccentMaterialRedOverlay \
     AccentMaterialTealOverlay \
-    AccentMaterialYellowOverlay
+    AccentMaterialYellowOverlay \
+    AccentPantoneBlueOverlay \
+    AccentPantoneGreenOverlay \
+    AccentPantoneOrangeOverlay \
+    AccentPantonePinkOverlay \
+    AccentPantonePurpleOverlay \
+    AccentPantoneRedOverlay \
+    AccentPantoneYellowOverlay
 
 # Dark Mode Backgrounds
 PRODUCT_PACKAGES += \
