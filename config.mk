@@ -31,34 +31,6 @@ PRODUCT_PACKAGES += \
     FontOnePlusSlateOverlay \
     FontRubikOverlay
 
-# Accent Colors
-PRODUCT_PACKAGES += \
-    AccentGoogleBlueOverlay \
-    AccentMaterialAmberOverlay \
-    AccentMaterialBlueOverlay \
-    AccentMaterialBrownOverlay \
-    AccentMaterialCyanOverlay \
-    AccentMaterialDeepOrangeOverlay \
-    AccentMaterialDeepPurpleOverlay \
-    AccentMaterialGreenOverlay \
-    AccentMaterialIndigoOverlay \
-    AccentMaterialLightBlueOverlay \
-    AccentMaterialLightGreenOverlay \
-    AccentMaterialLimeOverlay \
-    AccentMaterialOrangeOverlay \
-    AccentMaterialPinkOverlay \
-    AccentMaterialPurpleOverlay \
-    AccentMaterialRedOverlay \
-    AccentMaterialTealOverlay \
-    AccentMaterialYellowOverlay \
-    AccentPantoneBlueOverlay \
-    AccentPantoneGreenOverlay \
-    AccentPantoneOrangeOverlay \
-    AccentPantonePinkOverlay \
-    AccentPantonePurpleOverlay \
-    AccentPantoneRedOverlay \
-    AccentPantoneYellowOverlay
-
 # Dark Mode Backgrounds
 PRODUCT_PACKAGES += \
     BackgroundBlackOverlay \
