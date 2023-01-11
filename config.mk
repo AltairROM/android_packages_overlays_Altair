@@ -24,6 +24,12 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     fonts_customization.xml \
+    ClockFontGoogleSansOverlay \
+    ClockFontLatoOverlay \
+    ClockFontNotoSerifSourceOverlay \
+    ClockFontOnePlusSansOverlay \
+    ClockFontOnePlusSlateOverlay \
+    ClockFontRubikOverlay \
     FontGoogleSansOverlay \
     FontLatoOverlay \
     FontNotoSerifSourceOverlay \
