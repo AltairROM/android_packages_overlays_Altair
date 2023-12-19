@@ -58,6 +58,18 @@ PRODUCT_PACKAGES += \
     NavbarHoloOverlay \
     NavbarOneUiOverlay
 
+# QS Panel Style
+PRODUCT_PACKAGES += \
+    QSCyberPunk \
+    QSNeumorph \
+    QSOutline \
+    QSReflected \
+    QSShaded \
+    QSSurround \
+    QSThin \
+    QSTwoToneAccent \
+    QSTwoToneAccentTrans
+
 # QS UI Style
 PRODUCT_PACKAGES += \
     A11QSUI
