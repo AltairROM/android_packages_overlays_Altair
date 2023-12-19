@@ -58,6 +58,10 @@ PRODUCT_PACKAGES += \
     NavbarHoloOverlay \
     NavbarOneUiOverlay
 
+# QS UI Style
+PRODUCT_PACKAGES += \
+    A11QSUI
+
 # Signal Icons
 PRODUCT_PACKAGES += \
     SignalIconClassicOverlay \
